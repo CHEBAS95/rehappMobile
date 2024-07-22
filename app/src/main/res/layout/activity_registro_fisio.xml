@@ -1,0 +1,153 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/imagen_registro_fisio"
+    tools:context=".activity_registro_fisio">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imagelogo_fisio"
+                android:layout_width="193dp"
+                android:layout_height="91dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="20dp"
+                android:src="@drawable/logo_iniciosesion" />
+
+            <TextView
+                android:id="@+id/text_titulo_registro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CREAR CUENTA FISIOTERAPEUTA"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="italic|bold"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"/>
+
+            <EditText
+                android:id="@+id/text_Nombre_fisio"
+                android:layout_width="230dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border"
+                android:hint="@string/nombre_fisio"
+                android:inputType="text"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="16dp" />
+
+            <EditText
+                android:id="@+id/tex_Correo_fisio"
+                android:layout_width="230dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border"
+                android:hint="@string/correo_fisio"
+                android:inputType="textEmailAddress"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp" />
+
+            <EditText
+                android:id="@+id/text_contraseña_fisio"
+                android:layout_width="230dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border"
+                android:hint="@string/pass_fisio"
+                android:inputType="textPassword"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="16dp" />
+
+            <EditText
+                android:id="@+id/tex_comfirmar_contraseña_fisio"
+                android:layout_width="230dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border"
+                android:hint="@string/comfirmar_pass_fisio"
+                android:inputType="textPassword"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp" />
+
+            <EditText
+                android:id="@+id/text_identificacion_fisio"
+                android:layout_width="230dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border"
+                android:hint="@string/identificacion_fisio"
+                android:inputType="number"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="16dp" />
+
+            <EditText
+                android:id="@+id/tex_tajeta_fisio"
+                android:layout_width="230dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border"
+                android:hint="@string/n_tarjeta_fisio"
+                android:inputType="number"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp" />
+
+            <EditText
+                android:id="@+id/text_telefono_fisio"
+                android:layout_width="230dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/border"
+                android:hint="@string/numero_contacto_fisio"
+                android:inputType="phone"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="30dp" />
+
+            <Button
+                android:id="@+id/ButtonRegistrarFisioterapeuta"
+                android:layout_width="185dp"
+                android:layout_height="43dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="16dp"
+                android:textSize="13sp"
+                android:text="Strart Teaching"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/botones_amarillos_inicio_sesion" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

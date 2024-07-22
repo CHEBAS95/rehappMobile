@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115887909205",
+    "project_id": "rehapp20-69584",
+    "storage_bucket": "rehapp20-69584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115887909205:android:5bdd0cb82405c3a78127dc",
+        "android_client_info": {
+          "package_name": "com.example.rehapp_20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENDUE-BfCZmxTdAZFwBk2NX7kt9qfUpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

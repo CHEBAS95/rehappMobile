@@ -1,0 +1,75 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/fondo_registro_exitoso"
+    tools:context=".MainActivity_Registro_Exitoso">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        app:srcCompat="@drawable/validar" />
+
+    <TextView
+        android:id="@+id/titulo_bienvenida"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="!Felicitaciones¡"
+        android:textSize="30sp" />
+
+
+
+    <TextView
+        android:id="@+id/textPresentacionApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/grismodulo2"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Cuenta Registrada Exitosamente"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/ButtonAvanzarEncuesta"
+        android:layout_width="185dp"
+        android:layout_height="43dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="13sp"
+        android:text="Start to learn"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/botones_amarillos_inicio_sesion" />
+
+</LinearLayout>

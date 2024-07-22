@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">rehapp_20</string>
+
+    // strings bienvenida
+    <string name="titulo_bienvenida">!BIENVENIDO¡</string>
+    <string name="parrafo_bienvenida">Aquí encontrarás los recursos necesarios para aprender y mejorar
+        tus terapias de rehabilitación para tus manos, gracias por utilizar Rehapp</string>
+
+    // strings registros , usuarios e inicio sesion
+
+    <string name="crear_cuenta">CREAR UNA CUENTA</string>
+    <string name="nombre_usuario">Usuario</string>
+    <string name="pass_usuario">Contraseña</string>
+    <string name="nombre_fisio">Nombre</string>
+    <string name="correo_fisio">Correo</string>
+    <string name="pass_fisio">Contraseña</string>
+    <string name="comfirmar_pass_fisio">Comfirmar contraseña</string>
+    <string name="identificacion_fisio">Numero de identificación</string>
+    <string name="n_tarjeta_fisio">N. Tarjeta profesional</string>
+    <string name="numero_contacto_fisio">Numero contacto</string>
+    <string name="nombre_registro_usuario">Nombre</string>
+    <string name="correo_electronico_registro_usuario">Correo Electronico</string>
+    <string name="pass_registro_usuario">Contraseña</string>
+    <string name="confirmacion_pass_registro_usuario">Confirmación</string>
+
+
+    //string Encuesta//
+
+    <string name="pregunta1">1.¿Quieres realizar la rehabilitación debido a?</string>
+    <string name="pregunta2">2.¿ Que tipo de rehabilitación estás buscando?</string>
+    <string name="pregunta3">3.¿Estas interesado en realizar rehabilitación de que parte de la mano</string>
+    <string name="pregunta4">4.¿Haz experimentado alguna dificultad o condición reciente en tu mano?</string>
+    <string name="pregunta5">5.¿Hay algún otro sintoma que te preocupe y creas que esté relacionado con tu mano?</string>
+    <string name="pregunta6">6.¿Qué tan severos son tus síntomas actualmente?</string>
+    <string name="pregunta7">7.¿Cuánto tiempo puedes dedicarle diariamente a la rehabilitación?</string>
+    <string name="pregunta8">8.¿Hace cuánto comenzarón tus síntomas? </string>
+    <string name="pregunta9">9.¿Te genera dolor al estirar la mano o los dedos en una posición determinada</string>
+    <string name="pregunta1Respuesta1">Una lesion</string>
+    <string name="pregunta1Respuesta2">Fortalecimiento de la Mano</string>
+    <string name="pregunta1Respuesta3">Recuperacion des una Cirugia o Fractura</string>
+    <string name="pregunta2Respuesta1">Rehabilitación Fisica para mi Condición</string>
+    <string name="pregunta2Respuesta2">Aliviar dolor y mejorar movilidad</string>
+    <string name="pregunta2Respuesta3">Fortalecimiento y prevencion de furturas lesiones</string>
+    <string name="pregunta3Respuestas1">Todas las anteriores</string>
+    <string name="pregunta3Respuesta2">Muneca</string>
+    <string name="pregunta3Respuesta3">Tunel del Carpio</string>
+    <string name="pregunta2Respuesta4">Dedo en gatillo</string>
+    <string name="pregunta3Respuesta5">Artrosis de la mano y de los dedos</string>
+    <string name="pregunta3Respuesta4">Estiramiento de la palma y dedos</string>
+    <string name="pregunta4Respuiesta1">Levantar objetos pesados</string>
+    <string name="pregunta4Respuesta2">Girar la muñeca en ciertas direcciones</string>
+    <string name="pregunta4Respuesta3">Realizar movimientos repetitivos, como escribir o usar mouse</string>
+    <string name="pregunta4Respuestas4">Flexionar o extender los dedos y palma de manera específica</string>
+    <string name="pregunta4Respuesta5">Doblar la muñeca hacia atrás (extención) o hacia adelante (flexión)</string>
+    <string name="pregunta5Respuesta1">Adormecimiento u hormigueo de la mano</string>
+    <string name="pregunta5Respuesta2">Inflamación o hinchazón en la zona afectada</string>
+    <string name="pregunta5Respuesta3">Sensacion de debilidad en las manos o dedos</string>
+    <string name="pregunta5Respuesta4">Dificultad para mover la mano o los dedos afectados</string>
+    <string name="pregunta6Respuesta1">Leves</string>
+    <string name="pregunta6Respuesta2">Moderados</string>
+    <string name="pregunta6Respuesta3">Graves</string>
+    <string name="pregunta7Respuesta1">10 - 15 minutos</string>
+    <string name="pregunta7Respuesta2">15 - 30 minutos</string>
+    <string name="pregunta7Respuesta3">30 - 45 minutos</string>
+    <string name="pregunta8Respuesta1">7 días</string>
+    <string name="pregunta8Respuesta2">15 días</string>
+    <string name="pregunta8Respuesta3">30 días</string>
+    <string name="pregunta8Respuesta4">mas de 30 días</string>
+    <string name="pregunta9Respuesta1">si</string>
+    <string name="pregunta9Respuesta2">no</string>
+    <string name="boton_finalizar_encuesta">finalizar</string>
+
+    //strings de perfil usuario //
+
+    <string name="modulo2enlace">Modulo 2 Ejercicios para aliviar el sindrome del tunel carpiano</string>
+    <string name="modulo1enlace">Modulo 1 Rehabilitacion para fractura de muñeca</string>
+    <string name="modulo3enlace">Modulo 3 Ejercicios para mejorar dedo en gatillo </string>
+    <string name="modulo4enlace">Modulo 4 Artrosis de mano y de los dedos</string>
+    <string name="modulo5enlace">Módulo 5.Rehabilitacion para fractura de muñeca </string>
+
+    //string modulo1 //
+    <string name="titulo_modulo1_ejercicio1">Flexion y extension de la Muñeca</string>
+    <string name="titulo_modulo1_ejercicio2">Flexion de Muñeca con peso  </string>
+    <string name="titulo_modulo1_ejercicio3">Desviacion Radial y Cubital de la Muñeca</string>
+    <string name="titulo_modulo1_ejercicio4">Estiramiento del Extensor de la Muñeca</string>
+
+
+    <string name="descripcion_modulo1_ejercicio1">
+        1.Coloque el antebrazo sobre una mesa, con la mano y la muñeca afectada extendidas fuera de la mesa y la palma hacia abajo.\n.\n
+        2.Doble la muñeca para mover la mano hacia arriba y deje que la mano se cierre en un puño, luego baje la mano y permita que sus dedos se relajen .\n.\n
+        3.Mantenga cada posicion durante 6 segundos. Repita de 8 a 12 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+    <string name="descripcion_modulo1_ejercicio2">
+        1.Estando sentado, coloque el antebrazo y la muñeca afectada sobre su muslo, con la palma hacia abajo.\n.\n
+        2.Gire la mano de forma que el dorso de su mano se apoye en el muslo y la palma quede hacia arriba. Alterne entre la palma hacia arriba y la palma hacia abajo mientras mantiene el antebrazo sobre el muslo.\n.\n
+        3.Repita de 8 a 12 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+    <string name="descripcion_modulo1ejercicio3">
+        1.Sostenga la mano afectada hacia adelante con la palma hacia abajo..\n.\n
+        2.Doble lentamente la muñeca tanto como pueda de un lado al otro. Mantenga cada posicion durante 6 segundos.\n.\n
+        3.Repita de 8 a 12 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor..</string>
+
+    <string name="descripcion_modulo1_ejercicio4">
+        1.Extienda el brazo con la muñeca afectada hacia adelante y apunte los dedos hacia el piso.\n.\n
+        2.Con la otra mano, doble con suavidad la muñeca hacia dentro hasta que sienta un estiramiento entre leve y moderado en el antebrazo. .\n.\n
+        3.Mantenga el estiramiento por lo menos de 15 a 30 segundos. .\n.\n
+        4.Repita de 2 a 4 veces. .\n.\n
+        5.Cuando pueda hacer este estiramiento con facilidad y sin sentir dolor, repita los pasos del 1 a 4. Pero esta vez extienda el brazo afectado hacia adelante y cierre el puño con la palma hacia abajo. Despues doble la muñeca y apunte con el puño hacia el piso..</string>
+
+    //string modulo2 //
+    <string name="titulo_modulo2_ejercicio1">Flexión de la muñeca (hacia delante y hacia atrás)</string>
+    <string name="titulo_modulo2_ejercicio2">Elevación de la Muñeca</string>
+    <string name="titulo_modulo2_ejercicio3">Desviaciación Radial y Cubital de la Muñeca</string>
+    <string name="titulo_modulo2_ejercicio4">Estiramiento del Extensor de la Muñeca</string>
+
+
+    <string name="descripcion_modulo2_ejercicio1">
+        1.	Levanto dedos de manera individual de 3 a 5 segundos.\n.\n
+        2.	Repito el ejercicio de 5 a 20 veces.\n.\n
+        3.	Luego levantamos todos los dedos de la mano, la palma siempre apoyada en una mesa.\n.\n
+        4.	Para trabajar los separadores, colocamos un elástico en los dedos, separamos todos los dedos a la vez mantenemos y descansamos.\n.\n
+
+    </string>
+
+    <string name="descripcion_modulo2_ejercicio2">
+        1.	Con el antebrazo apoyado, lleva la mano arriba y abajo todo lo posible.\n.\n
+        2.	Ayúdate con la otra mano para realizar mejor el estiramiento flexiona hacia arriba y hacia abajo.\n.\n
+        3.	Gira la palma hacia un lado inclina la mano hacia abajo y arriba, nos ayudamos con la otra mano para hacer bien el estiramiento.\n.\n
+        4.	Realiza repeticiones de 5 a 10 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.\n.\n
+</string>
+
+    <string name="descripcion_modulo2_ejercicio3">
+        1.	Colocamos la mano en una superficie plana.\n.\n
+        2.	Giramos la mano hacia un lado y con la mano contraria para ejercer mayor estiramiento.\n.\n
+        3.	Hacemos lo mismo hacia el lado contrario.\n.\n
+        4.	Realiza repeticiones de 5 a 10 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.\n.\n
+</string>
+
+    <string name="descripcion_modulo2_ejercicio4">
+        1.	Con las palmas juntas y los codos apoyados ve separando progresivamente los codos gasta donde puedas.\n.\n
+        2.	Repite el movimiento sin levantarlos codos de la mesa ni las palmas.\n.\n
+        3.	 Realiza repeticiones de 5 a 10 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.\n.\n
+</string>
+
+    //string modulo3 //
+
+    <string name="titulo_modulo3_ejercicio1">Extensión del Dedo</string>
+    <string name="titulo_modulo3_ejercicio2">Apertura de los Dedos</string>
+    <string name="titulo_modulo3_ejercicio3">Apretar una Pelota Antiestres</string>
+    <string name="titulo_modulo3_ejercicio4">Presionar la Palma de las Manos</string>
+
+
+    <string name="descripcion_modulo3_ejercicio1">
+        1.Colocar la mano del dedo afectado en una superficie plana, como una mesa, por ejemplo, y levantar el dedo afectado lo máximo posible, manteniendo el estiramiento en esta posición, durante 10 a 30 segundos.\n.\n
+        2.Este ejercicio debe repetirse de 6 a 10 veces por día. Reduzca la intensidad del ejercicio si empieza a sentir dolor. </string>
+
+    <string name="descripcion_modulo3_ejercicio2">
+        1.Colocar un elástico alrededor de los dedos, con los dedos volteados hacia arriba, y luego hacer fuerza con los dedos para abrir la mano, estirando el elástico.\n.\n
+        2.Después, se debe volver lentamente a la posición inicial y repetir este ejercicio de 10 a 15 veces.\n.\n
+        3.Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+    <string name="descripcion_modulo3_ejercicio3">
+        1.Colocar una bola en la palma de la mano y apretarla, presionando con fuerza y manteniendo esta posición durante unos segundos. Luego, aliviar la presión sobre la bola hasta que los dedos estén estirados.\n.\n
+        2.Repetir este ejercicio 3 veces al día de 6 a 10 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+    <string name="descripcion_modulo3_ejercicio4">
+        1.juntar la palma de una mano con la otra y colocarlas en frente del pecho, como si se estuviese rezando. Mover las manos (juntas) hacia abajo, para estirar los dedos y las muñecas, hasta aproximadamente la altura de la cintura. Permanecer en esta posición durante 10 segundos.\n.\n
+        2.Luego, volver a la posición inicial, repitiendo varias veces al día.Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+
+    //string modulo4 //
+
+    <string name="titulo_modulo4_ejercicio1">Ejercicios de Pull o Tracción</string>
+    <string name="titulo_modulo4_ejercicio2">Ejercicios de Estiramiento</string>
+    <string name="titulo_modulo4_ejercicio3">Ejercicios de fortalecimiento de los dedos:</string>
+    <string name="titulo_modulo4_ejercicio4">Estabilización del pulgar</string>
+
+
+    <string name="descripcion_modulo4_ejercicio1">
+        1.Coloque el antebrazo sobre una mesa, con la mano y la muñeca afectada extendidas fuera de la mesa y la palma hacia abajo.\n.\n
+        2.Doble la muñeca para mover la mano hacia arriba y deje que la mano se cierre en un puño, luego baje la mano y permita que sus dedos se relajen .\n.\n
+        3.Mantenga cada posicion durante 6 segundos. Repita de 8 a 12 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+    <string name="descripcion_modulo4_ejercicio2">
+        1.Estando sentado, coloque el antebrazo y la muñeca afectada sobre su muslo, con la palma hacia abajo.\n.\n
+        2.Gire la mano de forma que el dorso de su mano se apoye en el muslo y la palma quede hacia arriba. Alterne entre la palma hacia arriba y la palma hacia abajo mientras mantiene el antebrazo sobre el muslo.\n.\n
+        3.Repita de 8 a 12 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+    <string name="descripcion_modulo4_ejercicio3">
+        1.Coloque el antebrazo sobre una mesa, con la mano y la muñeca afectada extendidas fuera de la mesa y la palma hacia abajo.\n.\n
+        2.Doble la muñeca para mover la mano hacia arriba y deje que la mano se cierre en un puño, luego baje la mano y permita que sus dedos se relajen .\n.\n
+        3.Mantenga cada posicion durante 6 segundos. Repita de 8 a 12 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+    <string name="descripcion_modulo4_ejercicio4">
+        1.Coloque el antebrazo sobre una mesa, con la mano y la muñeca afectada extendidas fuera de la mesa y la palma hacia abajo.\n.\n
+        2.Doble la muñeca para mover la mano hacia arriba y deje que la mano se cierre en un puño, luego baje la mano y permita que sus dedos se relajen .\n.\n
+        3.Mantenga cada posicion durante 6 segundos. Repita de 8 a 12 veces. Reduzca la intensidad del ejercicio si empieza a sentir dolor.</string>
+
+
+    // navbar //
+
+    <string name="logo_navbar_perfil">Perfil</string>
+    <string name="logo_navbar_modulos">Modulos</string>
+    <string name="logo_navbar_inicio">inicio</string>
+    <string name="logo_navbar_vr">Realidad Virtual</string>
+    <string name="logo_navbar_config">Configuracion</string>
+    <string name="ic_calendario" />
+    <string name="ic_home">home</string>
+    <string name="ic_perfil">perfil</string>
+    <string name="ic_atras">atras</string>
+    <string name="sendMail">Enviar correo de restablecimiento</string>
+
+</resources>

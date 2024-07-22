@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="azulModulo1.2">#2A4954</color>
+    <color name="azulModulo1">#007BA4</color>
+    <color name="verdeFondoModulos">#AFE7B0</color>
+    <color name="verdeBienvenida">#79D67B</color>
+    <color name="azulFondoModulosUsuario">#71DFE2</color>
+    <color name="amarilloVectores">#FFC909</color>
+    <color name="grisModulos">#C7CBC7</color>
+    <color name="beigeModulos">#EBE1BE</color>
+    <color name="fondoEncueta">#0A3645</color>
+    <color name="fondoRegistrioFisio">#1A6783</color>
+    <color name="verdeNavbar">#AFE7B0</color>
+    <color name="grismodulo2">#C7CBC7</color>
+    <color name="azulmodulo3">#61BBD9</color>
+    <color name="verdemodulo4">#A2C3A3</color>
+    <color name="fondo_card_notificaciones">#20232D</color>
+    <color name="fondo_calendario">#1E1E1E</color>
+    <color name="fondo_cardCalendario">#20232D</color>
+    <color name="azulCalendario">#007BA4</color>
+    <color name="botones_amarillos_inicio_sesion">#FCDB00</color>
+    <color name="titulosModulos">#9AE3FD</color>
+    <color name="fondoModulosRosado">#F5EBEB</color>
+    <color name="cardview_fin_modulos">#0091FF</color>
+
+</resources>
