@@ -44,6 +44,12 @@ class activity_inicio_sesion : AppCompatActivity() {
             startActivity(intent)
         }
 
+        val buttonRegistroFisio : Button = findViewById(R.id.ButtonRegistroFisio)
+        buttonRegistroFisio.setOnClickListener {
+            val intent = Intent(this, activity_registro_fisio::class.java)
+            startActivity(intent)
+        }
+
         // Setup text view listener para restablecer contraseña
         val textViewOlvideContraseña: TextView = findViewById(R.id.textViewOlvideContraseña)
         textViewOlvideContraseña.setOnClickListener {

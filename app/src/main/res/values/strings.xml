@@ -209,5 +209,10 @@
     <string name="ic_perfil">perfil</string>
     <string name="ic_atras">atras</string>
     <string name="sendMail">Enviar correo de restablecimiento</string>
+    <string name="edad">edad</string>
+    <string name="date">Seleccionar Fecha y Hora</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="agendar_cita">Agendar Cita</string>
+    <string name="selec_fecha">Seleccionar Fecha y Hora</string>
 
 </resources>
