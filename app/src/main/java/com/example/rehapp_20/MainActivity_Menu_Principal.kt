@@ -13,7 +13,11 @@ class MainActivity_Menu_Principal : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_menu_principal)
 
-
+        val mod1: ImageView  = findViewById(R.id.imagen_modulo1)
+        mod1.setOnClickListener {
+            val intent: Intent = Intent(this, verCitas:: class.java)
+            startActivity(intent)
+        }
 
         val txt: ImageView  = findViewById(R.id.imagen_modulo2)
         txt.setOnClickListener {
@@ -21,6 +25,12 @@ class MainActivity_Menu_Principal : AppCompatActivity() {
             val intent: Intent = Intent(this, MainActivity_modulo_menu:: class.java)
             startActivity(intent)
 
+        }
+
+        val mod3: ImageView  = findViewById(R.id.imagen_modulo3)
+        mod3.setOnClickListener {
+            val intent: Intent = Intent(this, citasCalendario:: class.java)
+            startActivity(intent)
         }
 
         val Concuenta: ImageView  = findViewById(R.id.imagen_modulo4)
